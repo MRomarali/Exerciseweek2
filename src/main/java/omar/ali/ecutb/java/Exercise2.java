@@ -1,4 +1,4 @@
-package org.example;
+package omar.ali.ecutb.java;
 
 public class Exercise2 {
     public static int indexOF(int array[], int tal ){

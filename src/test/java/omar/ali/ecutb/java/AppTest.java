@@ -1,4 +1,4 @@
-package org.example;
+package omar.ali.ecutb.java;
 
 import static org.junit.Assert.assertTrue;
 

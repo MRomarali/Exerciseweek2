@@ -1,4 +1,4 @@
-package org.example;
+package omar.ali.ecutb.java;
 
 public class Exercise6 {
     public static void main(String[] args) {
